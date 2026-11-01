@@ -8,9 +8,11 @@ A simple python tool for password security. Np installs needed, just python 3.
 3. Generate: makes a random password with Python's 'secrets' module.
    
 #Run it
-pyhton PassCheck.py
+
+python PassCheck.py
 
 #What I learned
+
 1. How k-anonymity lets you check breaches privately
 2. Why 'secrets' is safer than 'random' for passwords
 3. Why long passwords with mixed characters are stronger
